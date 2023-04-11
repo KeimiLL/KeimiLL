@@ -12,8 +12,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/kamil-gizinski/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="kamil gizinski" height="30" width="40" /></a>
-<a href="https://www.instagram.com/gizioleq/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="https://www.instagram.com/gizioleq/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kamil-gizinski/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="kamil gizinski"/></a>
+<a href="https://www.instagram.com/gizioleq/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="https://www.instagram.com/gizioleq/"/></a>
 </p>
 
 <h3 align="center">Skills/Technologies:</h3>
