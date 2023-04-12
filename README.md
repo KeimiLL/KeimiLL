@@ -40,7 +40,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=keimill&label=Profile%20views&color=informational&style=for-the-badge" alt="keimill" /> </p>
 
 <p align="center">
-<img src="https://i.imgur.com/tiWy4Rs.png" width="60%"/>
+<img src="https://i.imgur.com/tiWy4Rs.png" width="80%"/>
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keimill&show_icons=true&locale=en&layout=compact" alt="keimill" /></p>
