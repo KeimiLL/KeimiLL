@@ -54,8 +54,8 @@
 </div>
 <br>
 
-<p> <img src="https://komarev.com/ghpvc/?username=keimill&label=Profile%20views&color=informational&style=for-the-badge" alt="keimill" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=keimill&label=Profile%20views&color=informational&style=for-the-badge" alt="keimill" /> </p>
 <br>
-<p>
+<p align="center">
 <img src="https://i.imgur.com/tiWy4Rs.png" width="80%"/>
 </p>
