@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm Kamil 👋</h1>
-<h3 align="center">Enthusiastic Junior Frontend Developer from Poland</h3>
+<h4>Versatile Frontend Dev and CS Engineer skilled in building interactive, responsive web interfaces with Angular.</h4>
 
-<div align="center">
-   
-![](https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg3NDczMjcsIm5iZiI6MTcyODc0NzAyNywicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDEyVDE1MzAyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBhOGYxMzE3M2Q5MmJiMjBlNDFhMjNkYzI3MzliNTgzZmIyNTkwY2UyYmYxNTU5ZGE0MjhlN2U4Nzk3NDU5NzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.4erpzprJ6rZtKEbsi0OVwzotqA5Mc0oEErn0gdDBVaY)
-</div>
 <br>   
 
 - 🌱 I’m currently learning **everything I need to fill my gaps to become a better programmer.**
@@ -13,13 +9,14 @@
 
 - 📫 How to reach me **gizinski.kamil00@gmail.com**
   
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/kamil-gizinski/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="kamil gizinski"/></a>
-</p>
+<h3>Connect with me:</h3>
+<div>
 
-<h3 align="center">Skills/Technologies:</h3>
-<div align="center">
+   ![Angular](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=Linkedin&link=https://www.linkedin.com/in/kamil-gizinski/)&nbsp;
+</div>
+
+<h3>Skills/Technologies:</h3>
+<div>
 
    ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
    ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -38,8 +35,8 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
 </div>
 
-<h3 align="center">Basics:</h3>
-<div align="center">
+<h3>Basics:</h3>
+<div>
    
    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
    ![FastAPI](https://img.shields.io/badge/FastAPI-05122A?style=flat&logo=FastAPI)&nbsp;
@@ -48,8 +45,8 @@
    ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 </div>
 
-<h3 align="center">Tools:</h3>
-<div align="center">
+<h3>Tools:</h3>
+<div>
    
    ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
@@ -57,8 +54,8 @@
 </div>
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=keimill&label=Profile%20views&color=informational&style=for-the-badge" alt="keimill" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=keimill&label=Profile%20views&color=informational&style=for-the-badge" alt="keimill" /> </p>
 <br>
-<p align="center">
+<p>
 <img src="https://i.imgur.com/tiWy4Rs.png" width="80%"/>
 </p>
