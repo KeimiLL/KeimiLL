@@ -41,6 +41,8 @@
 <h3 align="center">Basics:</h3>
 <div align="center">
    
+   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+   ![FastAPI](https://img.shields.io/badge/FastAPI-05122A?style=flat&logo=FastAPI)&nbsp;
    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
    ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
    ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
