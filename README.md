@@ -12,7 +12,7 @@
 <h3>Connect with me:</h3>
 <div>
 
-   ![Angular](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=Linkedin&link=https://www.linkedin.com/in/kamil-gizinski/)&nbsp;
+   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=Linkedin)](https://www.linkedin.com/in/kamil-gizinski/)
 </div>
 
 <h3>Skills/Technologies:</h3>
