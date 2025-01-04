@@ -56,6 +56,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=keimill&label=Profile%20views&color=informational&style=for-the-badge" alt="keimill" /> </p>
 <br>
+<video loop autoplay src="https://github.com/user-attachments/assets/16e6b877-fbb0-4ffb-835c-f9f025a99432"></video>
+
+  
+![auth-preview](https://github.com/user-attachments/assets/88132d08-d2d1-4fd0-bb4b-15c7efd9eaff)
+
 <p align="center">
 <img src="https://i.imgur.com/tiWy4Rs.png" width="80%"/>
 </p>
